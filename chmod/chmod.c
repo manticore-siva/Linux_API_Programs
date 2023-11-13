@@ -1,3 +1,12 @@
+/////////////////////////////////////////////////////////////////////////
+//                                                                     //
+//   Authore Name : Sivaprakasam.v                                     //
+//   Title        : Chmode                                             //
+//   File Name    : chmode.c                                           //
+//   Date         : 08/11/2023                                         //
+//                                                                     // 
+/////////////////////////////////////////////////////////////////////////
+
 #include <unistd.h>
 #include <sys/stat.h>
 #include <stdlib.h>
