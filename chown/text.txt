@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////
+//                                                                     //
+//   Authore Name : Sivaprakasam.v                                     //
+//   Title        : change ownership of a file                         //
+//   File Name    : chown.c                                            //
+//   Date         : 08/11/2023                                         //
+//                                                                     // 
+/////////////////////////////////////////////////////////////////////////
+
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+    int ret_chown;
+    uid_t u_id;
+    gid_t g_id;
+}
